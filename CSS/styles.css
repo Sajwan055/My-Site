@@ -14,7 +14,7 @@
 
 }
 
-.middle-container{
+/* .middle-container{
    
    
 
@@ -23,7 +23,7 @@
 .bottom-container{
     
 
-}
+} */
 
 .bottom-cloud{
     position:absolute;
@@ -60,7 +60,11 @@ h3{
 
 }
 
-.skill-raw{
+.skill-row {
     width:50%;
-
+    margin:50px auto 50px auto;
+    text-align:left;
+    line-height:2;
+    
 }
+
