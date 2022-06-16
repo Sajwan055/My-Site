@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing:border-box;
-    text-align:center;
+    /* text-align:center; */
     font-family: 'Merriweather', serif;
   
 }
@@ -61,10 +61,40 @@ h3{
 }
 
 .skill-row {
-    width:50%;
-    margin:50px auto 50px auto;
-    text-align:left;
     line-height:2;
-    
+    width:50%;
+    margin:25px auto 25px auto;
+    text-align:left;
+
 }
 
+.box{
+    width:25%;
+    float:left;
+    margin-right:30px;
+}
+
+.hori{
+   width:5%;
+   border-style:dotted none none none;
+   border-color:grey;
+   border-width:5px;
+   margin:auto;
+   
+}
+
+.skills{
+    line-height:2;
+}
+
+.box3{
+    width:25%;
+    float:right;
+    margin-left:30pxs;
+}
+.para{
+    clear:left;
+}
+.para1{
+    clear:right;
+}
