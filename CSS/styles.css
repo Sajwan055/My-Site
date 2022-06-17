@@ -80,6 +80,8 @@ h3{
    border-width:5px;
    margin:auto;
 }
+/* Here i fixed a minor bug due to which my horizontal rule wasn't coming perfectly at centre because my upper div was coming on its way.
+Added some content too */
 .hori1{
     width:5%;
     margin:auto;
